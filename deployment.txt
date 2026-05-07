@@ -1,0 +1,2 @@
+azure cicd pipeline we can create build agent and ceploymed to the server in stag
+prod , stag
